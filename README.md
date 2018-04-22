@@ -8,7 +8,7 @@ Indexing all the documents in python takes about 3 Hours. The map-reduce impleme
 The searcher uses the indexes provided and can score documents based on cosine similarity in a few seconds (1000 entries ranking list).
 You can score the topics based on TF-IDF, BM25 and BM25VA. 
 The score results have been evaluated by trec_eval and have an average MAP of ~0.16.
-The articles used in this project where part of the (Tipster Collection)[https://catalog.ldc.upenn.edu/LDC93T3A]
+The articles used in this project where part of the [Tipster Collection](https://catalog.ldc.upenn.edu/LDC93T3A)
 
 ´
 ## Run requirements
