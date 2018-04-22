@@ -1,0 +1,10 @@
+Package: CranfieldMCP 
+Version: 0.1
+Title: Multiple Comparisons Adjustment for Cranfield-type IR experiments
+Description: For when you have a lot of paired tests to do and you want to analyze them "honestly"
+Author: Ben Carterette <carteret@cis.udel.edu>
+Maintainer: Ben Carterette <carteret@cis.udel.edu>
+Depends: lme4, multcomp
+License: GPL
+Packaged: 2011-09-27 15:42:56 UTC; carteret
+RoxygenNote: 6.0.1
